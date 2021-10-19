@@ -1,1 +1,1 @@
-# ds-course
+Data Science course by Brunoyam
